@@ -1,0 +1,22 @@
+[
+    {
+        "id": 1,
+        "name": "20 Minute Till Down",
+        "genre": "TwinStickShooter"
+    },
+    {
+        "id": 2,
+        "name": "BeatSabar",
+        "genre": "VR"
+    },
+    {
+        "id": 3,
+        "name": "Splatoon",
+        "genre": "TPS"
+    },
+    {
+        "id": 4,
+        "name": "MUSEDASH",
+        "genre": "MusicGame"
+    }
+]
