@@ -6,17 +6,17 @@
     },
     {
         "id": 2,
-        "name": "BeatSabar",
+        "name": "Beat Saber",
         "genre": "VR"
     },
     {
         "id": 3,
-        "name": "Splatoon",
+        "name": "スプラトゥーン",
         "genre": "TPS"
     },
     {
         "id": 4,
-        "name": "MUSEDASH",
+        "name": "MUSE DASH",
         "genre": "MusicGame"
     }
 ]

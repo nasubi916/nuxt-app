@@ -7,15 +7,14 @@
 
 <script setup lang="ts">
 definePageMeta({
-	layout:"costom",
+	layout: 'custom'
 })
 
-
 /**
- * * dfdfdfdvc
- * ! kldfvcbvcbvdgadsf
- * ? fkldjgkdjvioifjaewiof
- * TODO: kdfjadisjfdivjdfv
+ * * comment
+ * ! careful
+ * ? question
+ * TODO todo list
  * @param layout
  */
 

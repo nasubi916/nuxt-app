@@ -2,6 +2,6 @@
     <div>
         <Navbar />
         <slot />
-        test play TETRIS
+        test play Nuxt3
     </div>
 </template>

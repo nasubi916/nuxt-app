@@ -1,8 +1,8 @@
 <script setup lang="ts">
 import data from "../../data.json"
-const route = useRoute()
-const id = Number(route.params.id)
-const MyFavGame = data.find(res => res.id === id)
+const route = useRoute();
+const id = Number(route.params.id);
+const MyFavGame = data.find(res => res.id === id);
 </script>
 
 <template>
