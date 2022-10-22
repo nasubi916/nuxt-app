@@ -1,9 +1,15 @@
 <script setup lang="ts">
-
 const foo = useFoo()
+const { count, double, inc, dec } = useNum();
 
-const { count, double } = useNum()
-
+/**
+ * type User = {
+  firstName: string;
+  lastName: string;
+  age: number;
+};
+ * ?こうやって先に型宣言することができる
+ */
 </script>
 
 <template>
@@ -12,6 +18,9 @@ const { count, double } = useNum()
         {{foo}}<br>
         count:{{count}} ||
         double:{{double}}<br>
-        <button>add</button>
+        <button type="button" @click="inc"> +++ </button>
+        <button type="button" @click="dec"> --- </button>
+        <br>
+        <NuxtLink to="/">Home</NuxtLink>
     </div>
 </template>
