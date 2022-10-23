@@ -1,6 +1,7 @@
 <script setup lang="ts">
 const foo = useFoo()
 const { count, double, inc, dec } = useNum();
+const card =useNewCard();
 
 /**
  * type User = {
@@ -20,6 +21,7 @@ const { count, double, inc, dec } = useNum();
         double:{{double}}<br>
         <button type="button" @click="inc"> +++ </button>
         <button type="button" @click="dec"> --- </button>
+        card:{{card}}
         <br>
         <NuxtLink to="/">Home</NuxtLink>
     </div>
