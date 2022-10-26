@@ -1,5 +1,4 @@
 <script setup lang="ts">
-
 </script>
 <template>
 	<div class="container-fluid">
@@ -7,5 +6,5 @@
 		<NuxtLink to="/next">Next!!!</NuxtLink><br>
 		aa
 	</div>
-	aa
 </template>
+//! div tag の外に何も書くな!!!!

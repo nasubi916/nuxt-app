@@ -13,15 +13,16 @@
                             <NuxtLink to="/" class="nav-link" activeClass="active" aria-current="page">Home</NuxtLink>
                         </li>
                         <li class="nav-item">
-                            <NuxtLink to="/next" class="nav-link" activeClass="active" aria-current="page">next
-                            </NuxtLink>
+                            <NuxtLink to="/next" class="nav-link" activeClass="active" aria-current="page">next</NuxtLink>
                         </li>
                         <li class="nav-item">
                             <NuxtLink to="/num" class="nav-link" activeClass="active" aria-current="page">num</NuxtLink>
                         </li>
                         <li class="nav-item">
-                            <NuxtLink to="/MyFavGame" class="nav-link" activeClass="active" aria-current="page">
-                                MyFavGame</NuxtLink>
+                            <NuxtLink to="/MyFavGame" class="nav-link" activeClass="active" aria-current="page">MyFavGame</NuxtLink>
+                        </li>
+                        <li class="nav-item">
+                            <NuxtLink to="/myPage" class="nav-link" activeClass="active" aria-current="page">MyPage</NuxtLink>
                         </li>
                     </ul>
                     <span class="navbar-text">
